@@ -1,9 +1,32 @@
 
- # Welcome to the Team Kinetic Ninja Warrior Booster Club Website
+ <h1 style="text-align: center;"> Welcome to the Team Kinetic Ninja Warrior Booster Club Website</h1>
 
-|  |  |
-|---|---|
-| ![knwshield](/images/KNWshield.png) | This website contains various hyperlinks to support the Team KNW Booster Club  
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+  background-color: yellow
+}
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+.text {
+  font-size: 10px;
+  padding-left: 20px;
+}
+  </style>
+<div class="container">
+      <div class="image">
+        <img src="images/KNWshield.png">
+      </div>
+      <div class="text">
+        <h1>This website contains various hyperlinks to support the Team KNW Booster Club</h1>
+      </div>
+    </div>
+
+
 
 
 ![teampic](/images/teampic.png)
