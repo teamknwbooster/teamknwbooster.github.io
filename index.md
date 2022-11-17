@@ -35,4 +35,4 @@ Please review the available slots at the below genius site to sign up. Plan to a
 
 ## Information about the Team Kinetic Ninja Warrior Corporate Outreach 
 
-[Team KNW Corporate Outreach packet](https://drive.google.com/file/d/1tJxYzP3iF_VTfoKhcG6CZbHd127_j2LZ/view?usp=sharing)
+[Link to Team KNW Corporate Outreach packet](https://drive.google.com/file/d/1tJxYzP3iF_VTfoKhcG6CZbHd127_j2LZ/view?usp=sharing)
