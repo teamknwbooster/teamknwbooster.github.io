@@ -2,7 +2,7 @@
  <h1 style="text-align: center;"> Welcome to the Team Kinetic Ninja Warrior Booster Club Website</h1>
 
 
-![shield](/images/KNWShield.png#center)
+![shield](/images/KNWShield.png)
 
 
 
