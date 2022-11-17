@@ -1,12 +1,6 @@
 
  <h1 style="text-align: center;"> Welcome to the Team Kinetic Ninja Warrior Booster Club Website</h1>
 
-
-![shield](/images/KNWShield.png)
-
-
-
-
 This website contains various hyperlinks to support the Team KNW Booster Club
 
 ![teampic](/images/teampic.png)
