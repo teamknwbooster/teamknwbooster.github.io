@@ -8,7 +8,9 @@ This website contains various hyperlinks to support the Team KNW Booster Club
 ![teampic](/images/teampic.png)
 
 ## Private Facebook Page      
-[Link to Team KNW Facebook secret group](https://www.facebook.com/groups/109194729753650) ## Team KNW Google Drive
+[Link to Team KNW Facebook secret group](https://www.facebook.com/groups/109194729753650)  
+
+## Team KNW Google Drive
 
 [Link to Team KNW Google Drive](https://drive.google.com/drive/folders/1KC2WSRts_eZhDUaEkBzACFfMzbdyReLc)  
 
