@@ -20,6 +20,9 @@ This website contains various hyperlinks to support the Team KNW Booster Club
 
 [Link to Team KNW Corporate Outreach packet](https://drive.google.com/file/d/1tJxYzP3iF_VTfoKhcG6CZbHd127_j2LZ/view?usp=sharing)
 
+## Team KNW Uniform Store  
+[Link to Team KNW Uniform Store](https://teamlocker.squadlocker.com/#/lockers/team-knw-uniform-store)  
+
 ## KNW Team Holiday Party  
 Our holiday party will be on Tuesday- December 20, 2022 (7-8 pm). We will have a sock exchange- details to come. Please review the available slots below and sign up.
 
