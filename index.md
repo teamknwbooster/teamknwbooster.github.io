@@ -6,7 +6,7 @@ layout: default
 
 ![shield](images/KNWShield.png)
 
-This website contains various hyperlinks to support the Team KNW Booster Club.
+#### This website contains various hyperlinks to support the Team KNW Booster Club.
 
 ![teampic](/images/teampic2.png)
 
