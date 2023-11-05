@@ -9,6 +9,6 @@ img {
 /* Apply styles to a specific container, adjusting background and padding */
 .container {
     text-align: center;
-    background-color: #f0f0f0; /* Change this to the desired background color */
+    background-color: #b58900; /* Dark yellow */
     padding: 20px;
 }
