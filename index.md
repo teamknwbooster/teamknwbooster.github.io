@@ -20,11 +20,11 @@ layout: default
 
 ## Team KNW Upcoming Events
 
-- 11/18 & 11/19 Dexterity Depot Competition (coaches Liam/Derek)  
+- 11/18 & 11/19 Dexterity Depot Competition (coaches Liam/Daroch)  
   
 - 11/24 10:30-12:30 Friends/Family Day - Friday morning after Thanksgiving.    
   
-- 11/26 Wilmoth’s Informal Comp - All welcome. Come out and try their outdoor gym for the Wilmoth's Afterburn Ninja, a non-profit organization being launched to provide ninja opportunities to disadvantaged youth.  
+- 11/26 Wilmoth’s Informal Comp - All welcome. Come out and try their outdoor gym for the Wilmoth's Afterburn Ninja, a non-profit organization being launched to provide ninja opportunities to disadvantaged youth. [Sign-up here at this link.](https://www.facebook.com/groups/109194729753650/permalink/1322324751773969/?mibextid=W9rl1R)  
   
 - 12/16 & 12/17 Urban Playground Competition (coaches Lee/Mason)
   
