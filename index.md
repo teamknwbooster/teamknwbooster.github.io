@@ -12,23 +12,15 @@ layout: default
 
 [2022-2023 Team Pictures](https://drive.google.com/drive/folders/1NZnHMO5eZLMdGTIgW_GYNp9eA2XxDsDD)
 
-[Link to Team KNW Boosters next meeting](https://fb.me/e/3S1GAmlZY)
-
 [Team Booster Minutes](https://drive.google.com/drive/folders/1fLk8T1PJbbJ22nwFFmcT3yAx_jf3ufeX)  
 
 [Team KNW Season IX Survey for all Team members](https://docs.google.com/forms/d/1GaR7BuQFg6xqS28WA5DC2vQzNEvF0LlTKJSGztjFp4k/viewform?edit_requested=true)  
 
-## Team KNW Upcoming Events
+[2023-2024 Team KNW Roster](https://docs.google.com/spreadsheets/d/1wTWcub3JoCux1ymFAiicsxzpe3RiSGRFBfLZm6ea8nQ/edit#gid=0)
 
-- 11/18 & 11/19 Dexterity Depot Competition (coaches Liam/Daroch)  
-  
-- 11/24 10:30-12:30 Friends/Family Day - Friday morning after Thanksgiving.    
-  
-- 11/26 Wilmoth’s Informal Comp - All welcome. Come out and try their outdoor gym for the Wilmoth's Afterburn Ninja, a non-profit organization being launched to provide ninja opportunities to disadvantaged youth. [Sign-up here at this link.](https://www.facebook.com/groups/109194729753650/permalink/1322324751773969/?mibextid=W9rl1R)  
-  
-- 12/16 & 12/17 Urban Playground Competition (coaches Lee/Mason)
-  
-- 12/19 (7-8 pm) Holiday Party is - RSVP by 12/5. Sock exchange details to come. 12/9 you will receive your secret sock pal. Please sign up for available slots here: [Genius link](https://www.signupgenius.com/go/10C094FA4AA22A0FA7-45122164-knwteam)  
+[Team KNW 2023-2024 Competition Schedule](https://docs.google.com/spreadsheets/d/1h33LVrA98Wx3shwPqnGMNV_B8GN2VaIGABqK8y0tOB4/edit#gid=0)  
+
+[Team KNW 2023-2024 Confirmed Competition Participants](https://docs.google.com/spreadsheets/d/1WLlbv6KErifuXK_nLah0bMuDj7bb0wGXU3eukZh8VNQ/edit#gid=1452667885)  
 
 
-<link rel="stylesheet" href="styles.css">
+
