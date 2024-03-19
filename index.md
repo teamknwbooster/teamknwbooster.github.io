@@ -22,5 +22,11 @@ layout: default
 
 [Team KNW 2023-2024 Confirmed Competition Participants](https://docs.google.com/spreadsheets/d/1WLlbv6KErifuXK_nLah0bMuDj7bb0wGXU3eukZh8VNQ/edit#gid=1452667885)  
 
+[Team KNW Handbook for 2023-2024 ](https://docs.google.com/document/d/1hk59nvZ2BXI1T-MLZWd2dpELEBtEnS7ZE3wAi5t3xsA/edit)  
+
+[TEAM KNW UNIFORM STORE](https://teamlocker.squadlocker.com/#/lockers/team-knw-uniform-store)  
+
+
+
 
 
