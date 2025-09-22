@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Ready for New Changes Paula 
+
 # Welcome to the Team Kinetic Ninja Warrior Booster Club Website
 
 ![shield](images/KNWShield.png)
