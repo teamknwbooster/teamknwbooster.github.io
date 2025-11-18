@@ -21,4 +21,6 @@ layout: default
 
 [Link to Tier 2 Official Competition Participant Spreadsheet](https://docs.google.com/spreadsheets/d/1uOh12X61zYnqr06rL5VLWn2COk52OBH0xLgQ42NcptA/edit?usp=drive_link)  
 
+[Link to TEam Google Drive](https://drive.google.com/drive/folders/1M9l5wcVSoUjjMt26RkLjFok6OqPYgPWq)  
+
 
